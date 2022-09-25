@@ -3,7 +3,7 @@
 ~~Styled text~~ *i leik fluffy birb, image below*
 ![i leik birb](birb.jpg)
 > Here's a quote
->
+
 ```git commit -m "code quote"```
 <br>
 [Here's an external link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
