@@ -5,4 +5,4 @@ Steps for different parts of the lab can be found on other branches of the repo/
 see other branches for screenshots, .gitignore, etc.
 <br>
 
-[Github Pages Link](https://benjxia.github.io/CSE110-Lab-1/)
+[https://benjxia.github.io/CSE110-Lab-1/](https://benjxia.github.io/CSE110-Lab-1/)
