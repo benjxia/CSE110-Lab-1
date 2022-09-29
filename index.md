@@ -1,6 +1,9 @@
 # Ben's user page
 ### Crappy headers
 ~~Styled text~~ *i leik fluffy birb, image below*
+<br>
+~~I am a good programmer~~ <br>
+**The previous statement has been removed because it is false.**
 ![i leik birb](birb.jpg)
 > Here's a quote
 
